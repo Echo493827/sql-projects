@@ -1,0 +1,8 @@
+{
+  "description": "True effect of mentoring on leaving within 365 days of hire, for hires 2023-01-01 to 2025-06-30. Negative = mentoring lowers the chance of leaving. Units: proportion (multiply by 100 for percentage points).",
+  "true_ATT": -0.06443914081145585,
+  "true_ATE": -0.07766582703610411,
+  "n_cohort": 2382,
+  "n_mentored": 838,
+  "seed": 2026
+}

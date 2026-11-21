@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+statsmodels
+scikit-learn
+duckdb
+jupyterlab
+causaldata
